@@ -14,5 +14,4 @@ func main(){
         first = second
         second = result
     }
-
 }
