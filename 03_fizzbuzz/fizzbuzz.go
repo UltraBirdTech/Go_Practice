@@ -15,5 +15,4 @@ func main(){
             fmt.Printf(":" + result + "\n")
         }
     }
-
 }
