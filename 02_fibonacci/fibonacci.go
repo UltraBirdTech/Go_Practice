@@ -11,7 +11,6 @@ func main(){
         result = first + second
         fmt.Print(result)
         fmt.Printf("\n")
-        first = second
-        second = result
+        first, second = second, result
     }
 }
